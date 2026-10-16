@@ -1,4 +1,4 @@
-> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS-Wearable Index](https://github.com/Explore-In-HMOS-Wearable/hmos-index).
+> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
 
 # ParkPin
 ParkPin is a practical location-based app that helps users remember where they parked their car. By using MapKit, LocationKit, and ArkData, the app enables users to save their car's location and navigate back to it effortlessly.
